@@ -1,0 +1,3 @@
+## MVC Site Map
+
+I needed a utility to automatically render Google site maps. The example is using a StackOverflow to generate data. I'll be adding examples on how to render the site map based on the current site structure, or a database.
